@@ -22,7 +22,7 @@ COLOR_NARANJA = '#ED7D31'
 COLOR_VINO = '#9B2247'
 COLOR_BEIGE = '#E6D194'
 COLOR_GRIS = '#C4BFB6'  # Gris claro para tablas
-COLOR_GRIS_EXCEL = '#98989A'  # Gris original para Excel
+COLOR_GRIS_EXCEL = '#D9D9D6'  # Gris original para Excel
 COLOR_VERDE = '#002F2A'
 
 # Configuracion
